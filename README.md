@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aatamgajjar
-- 👀 I’m interested in data driven models for process optimization
-- 🌱 I’m currently learning applications of ML and RNNs in process control
+- 👀 I’m interested in building data driven models for process optimization
+- 🌱 I’m currently learning the applications of ML and RNNs in process control
 - 💞️ I’m looking to collaborate on sports analytics, process control and optimization projects
 - 📫 How to reach me- argajjar@ucdavis.edu
 
