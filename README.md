@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aatamgajjar
-- 👀 I’m interested in building data driven models for process optimization
-- 🌱 I’m currently learning the applications of ML and RNNs in process control
-- 💞️ I’m looking to collaborate on sports analytics, process control and optimization projects
-- 📫 How to reach me- argajjar@ucdavis.edu
+- 👀 I’m interested in building data-driven models in the field of energy conservation and process optimization.
+- 🌱 I’m currently learning to train machine leearning models for fault detection and optimization in process systems.
+- 💞️ I’m looking to collaborate on sports analytics, cricket statistics, data science in process systems engineering and data analytics in energy conservation projects.
+- 📫 How to reach me- aatamgajjar@gmail.com
 
 <!---
 aatamgajjar/aatamgajjar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
