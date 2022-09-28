@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aatamgajjar
 - 👀 I’m interested in building data-driven models in the field of energy conservation and process optimization.
-- 🌱 I’m currently learning to build neural network models for fault detection and optimization in process/energy systems.
-- 💞️ I’m looking to collaborate on data science in process systems engineering, data analytics in energy conservation, sports analytics and cricket statistics projects.
+- 🌱 I’m currently using deep learning algorithms for applications in fault estimation and identification, process optimization and process control
+- 💞️ I’m looking to collaborate on data science projects in process systems engineering, data analytics in energy conservation, sports analytics and cricket statistics projects.
 - 📫 How to reach me- aatamgajjar@gmail.com or reach out to me on www.linkedin.com/in/aatamgajjar
 
 <!---
